@@ -1,5 +1,5 @@
 # 19xx - M905A - DOC - WBSps.ca -2021-3-15-19-3-51.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -31,7 +31,7 @@ Power
 
 ```json
 {
- "file": "Modules/UNSORTED/M905A/19xx - M905A - DOC - WBSps.ca -2021-3-15-19-3-51.jpg",
+ "file": "Modules/UNSORTED/M905A/MANUALS/19xx - M905A - DOC - WBSps.ca -2021-3-15-19-3-51.jpg",
  "sha256": "4c6146b100b63d0b6a5f0b42a4c1fa9eea4281e7a3a956940ee9c3cd4683257c",
  "kind": "doc",
  "models": [

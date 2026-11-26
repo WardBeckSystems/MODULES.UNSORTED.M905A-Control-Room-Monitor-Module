@@ -35,7 +35,7 @@ Front panel and cutout drawing of the controller monitor module.
 - **Words (OCR):** 43 in 38 lines: 5 3 3 · 900,1 · REO D · DAM · PUNCT · (002 RAD · 7014 · "0236 · 0,070 · 0.07) · 6 010 · 4647
 - **Title block:** (676, 46)–(852, 274) mm: TSCALE · DETAIL · MATERIAL: ALUM ALLOY 0.125 THICK · FINISH: SAND 120 GRIT AND PAINT · TEXTURED   BEICE (452C) · TEXCOTE MNYL · (EXTRA  FINE   TEXTURE) · MOLRASCLS · WESI WARD-BECK SYSTEMS · M9O5A
 
-Every curve, box, word and wire group: [19xx - 905-03-001 - CONTROLLER MONITOR MODULE - DRN DRG - ISS 6 (traced).json](../MECHANICAL/19xx%20-%20905-03-001%20-%20CONTROLLER%20MONITOR%20MODULE%20-%20DRN%20DRG%20-%20ISS%206%20(traced).json) (the CAD file: `19xx - 905-03-001 - CONTROLLER MONITOR MODULE - DRN DRG - ISS 6 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 905-03-001 - CONTROLLER MONITOR MODULE - DRN DRG - ISS 6 (traced).json](../MECHANICAL/19xx%20-%20905-03-001%20-%20CONTROLLER%20MONITOR%20MODULE%20-%20DRN%20DRG%20-%20ISS%206%20%28traced%29.json) (the CAD file: `19xx - 905-03-001 - CONTROLLER MONITOR MODULE - DRN DRG - ISS 6 (traced).dxf`).
 
 ## Full text
 

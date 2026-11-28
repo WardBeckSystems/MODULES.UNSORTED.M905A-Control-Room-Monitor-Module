@@ -1,16 +1,15 @@
-# M905A Control Room Monitor Module · Unsorted
+# M905A Control Room Monitor Module · Renaissance
 
 Ward-Beck Systems M905A, 1994|27. Wiki page: [M905A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M905A.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 5 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 4 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 2 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 5 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -22,8 +21,6 @@ Ward-Beck Systems M905A, 1994|27. Wiki page: [M905A on WBSps.ca](https://wardbec
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
-
-Not on Google Drive yet: `19xx - 905-03-001 - CONTROLLER MONITOR MODULE - DRN DRG - ISS 6.jpg`
 
 ## 3-D model
 
@@ -55,7 +52,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 
 - [1994 - M905A - DOC - 940335-01-001 - NEL ARE INTEGRATED INTO CONSOLE TORPEY TIME CLOCK.kicad_sch](KICAD/1994%20-%20M905A%20-%20DOC%20-%20940335-01-001%20-%20NEL%20ARE%20INTEGRATED%20INTO%20CONSOLE%20TORPEY%20TIME%20CLOCK.kicad_sch)
 - [M905A.kicad_sym](KICAD/M905A.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)

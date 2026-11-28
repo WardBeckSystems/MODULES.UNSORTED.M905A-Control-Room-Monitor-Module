@@ -1,6 +1,6 @@
 # M905A Control Room Monitor Module · Renaissance
 
-Ward-Beck Systems M905A, 1994|27. Wiki page: [M905A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M905A.html)
+Ward-Beck Systems M905A, 1994|27. Wiki page: [M905A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M905A-Control-Room-Monitor-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

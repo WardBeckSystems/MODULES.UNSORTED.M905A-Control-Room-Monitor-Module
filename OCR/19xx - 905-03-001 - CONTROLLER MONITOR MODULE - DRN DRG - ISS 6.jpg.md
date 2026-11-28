@@ -1,5 +1,5 @@
 # 19xx - 905-03-001 - CONTROLLER MONITOR MODULE - DRN DRG - ISS 6.jpg
-Wiki page: [M905A](../../../../PAGES/M905A.md)
+Wiki page: [M905A](../)
 
 
 - **Year:** unknown (title block (read by eye))
